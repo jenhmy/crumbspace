@@ -132,8 +132,6 @@ After completing the run, the player can save their name and final score to a lo
 
 > Windows Defender SmartScreen may display a warning because the executable is not digitally signed. If that happens, click **More info** → **Run anyway**.
 
-You can also find all available builds on the **[Releases page](https://github.com/jenhmy/crumbspace/releases)**.
-
 ---
 
 ## 🌟 Credits & Acknowledgments
