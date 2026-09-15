@@ -84,7 +84,7 @@ After completing the run, the player can save their name and final score to a lo
 
 ## 🎥 Youtube Gameplay 
 <div align="center">
-  <a href="[https://youtu.be/yf9G4LefFA8](https://youtu.be/ZZlfmQ2MIwE)"> 
+  <a href="https://youtu.be/ZZlfmQ2MIwE">
     <img src="https://img.youtube.com/vi/ZZlfmQ2MIwE/0.jpg" 
          alt="Sphere Run Gameplay" 
          width="600" 
